@@ -1,0 +1,17 @@
+<vector
+    android:height="24dp"
+    android:viewportHeight="512"
+    android:viewportWidth="512"
+    android:width="24dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Green Background -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M472,0H40C17.9,0,0,17.9,0,40v432c0,22.1,17.9,40,40,40h432c22.1,0,40-17.9,40-40V40C512,17.9,494.1,0,472,0z"/>
+
+    <!-- Note Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M384,32H64C46.3,32,32,46.3,32,64v384c0,17.7,14.3,32,32,32h320c17.7,0,32-14.3,32-32V64C416,46.3,401.7,32,384,32z M400,448c0,8.8-7.2,16-16,16H128c-8.8,0-16-7.2-16-16V64c0-8.8,7.2-16,16-16h256c8.8,0,16,7.2,16,16V448z M336,176H176c-8.8,0-16,7.2-16,16s7.2,16,16,16h160c8.8,0,16-7.2,16-16S344.8,176,336,176z M336,256H176c-8.8,0-16,7.2-16,16s7.2,16,16,16h160c8.8,0,16-7.2,16-16S344.8,256,336,256z M336,336H176c-8.8,0-16,7.2-16,16s7.2,16,16,16h160c8.8,0,16-7.2,16-16S344.8,336,336,336z"/>
+</vector>
