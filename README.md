@@ -30,10 +30,10 @@ Alternatively, through Android Studio, the project execution occurs by selecting
 ## Screenshots
 ![Image Description](img/Screenshot1.png)
 
-![Image Description](img/Screenshot2.png)
+![Image Description](img/Screenshot5.png)
 
 ![Image Description](img/Screenshot3.png)
 
 ![Image Description](img/Screenshot4.png)
 
-![Image Description](img/Screenshot5.png)
+![Image Description](img/Screenshot2.png)
