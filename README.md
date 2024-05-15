@@ -1,6 +1,6 @@
 # Note-Task-Android-App
 
-A simple app for taking notes, creating tasks and managing contacts.
+A simple app for taking notes, creating tasks and managing contacts, created using java.
 
 The user interface has been implemented on Android. The oldest supported version is 5.0.
 
