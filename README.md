@@ -1,12 +1,10 @@
-Note-Task-Android-App
-========================
+# Note-Task-Android-App
 
 A simple app for taking notes, creating tasks and managing contacts.
 
 The user interface has been implemented on Android. The oldest supported version is 5.0.
 
-Setting Up on Windows Environment
-----------
+## Setting Up on Windows Environment
 
 1. Install Android Studio if necessary (version 2.1.13 or newer is recommended). If you have a version older than 2.3.0, you will need an internet connection because Android Studio will automatically download the required software.
 
@@ -22,9 +20,20 @@ Setting Up on Windows Environment
 Alternatively, from the initial screen of Android Studio, select "Open an existing Android Studio project" and open the project. Once the scripts running upon opening the project from the top menu are completed, we choose "Build -> Make Project". This compiles the code and runs automatic checks but does not produce reports or signed executables.
 
 
-Execution
--------
+## Execution
 
 The simplest way is to install the APK on your mobile device.
 
 Alternatively, through Android Studio, the project execution occurs by selecting "Run -> Run 'app'" from the top menu. In order for the application to run, we need to have defined an emulator or connected an Android smartphone to our computer.
+
+
+## Screenshots
+![Image Description](img/Screenshot1.png)
+
+![Image Description](img/Screenshot2.png)
+
+![Image Description](img/Screenshot3.png)
+
+![Image Description](img/Screenshot4.png)
+
+![Image Description](img/Screenshot5.png)
