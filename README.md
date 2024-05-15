@@ -1,9 +1,9 @@
 Note-Task-Android-App
 ========================
 
-Το παράδειγμα της δανειστικής βιβλιοθήκης του βιβλίου Ε. Γιακουμάκης και Ν. Διαμαντίδης, Τεχνολογία Λογισμικού, 2η Έκδοση, Unibooks, 2021. Περιλαμβάνει τον πηγαίο κώδικα και παραδείγματα των λοιπών εγγράφων του λογισμικού.
+A simple app for taking notes, creating tasks and managing contacts.
 
-Το user interface έχει υλοποιηθεί σε Android. Η παλαιότερη έκδοση που υποστηρίζεται είναι η 5.0
+The user interface has been implemented on Android. The oldest supported version is 5.0.
 
 Setting Up on Windows Environment
 ----------
