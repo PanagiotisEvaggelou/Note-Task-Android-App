@@ -28,12 +28,12 @@ Alternatively, through Android Studio, the project execution occurs by selecting
 
 
 ## Screenshots
-![Image Description](img/Screenshot1.png)
 
-![Image Description](img/Screenshot5.png)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 30px; justify-items: center;">
+    <img src="img/Screenshot1.png" alt="Screenshot 1" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot5.png" alt="Screenshot 5" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot3.png" alt="Screenshot 3" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot4.png" alt="Screenshot 4" style="max-width:100%; height:auto;">
+    <img src="img/Screenshot2.png" alt="Screenshot 2" style="max-width:100%; height:auto;">
+</div>
 
-![Image Description](img/Screenshot3.png)
-
-![Image Description](img/Screenshot4.png)
-
-![Image Description](img/Screenshot2.png)
